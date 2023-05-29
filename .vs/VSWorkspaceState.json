@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API.FurnitureStore",
+    "\\API.FurnitureStore\\API.FurnitureStore.API",
+    "\\API.FurnitureStore\\API.FurnitureStore.Data",
+    "\\API.FurnitureStore\\API.FurnitureStore.Shared"
+  ],
+  "SelectedNode": "\\API.FurnitureStore\\API.FurnitureStore.Shared\\Client.cs",
+  "PreviewInSolutionExplorer": false
+}

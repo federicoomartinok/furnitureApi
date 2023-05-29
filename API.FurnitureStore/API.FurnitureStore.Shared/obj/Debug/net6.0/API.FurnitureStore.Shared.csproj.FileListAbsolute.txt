@@ -1,0 +1,24 @@
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net6.0\API.FurnitureStore.Shared.deps.json
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net6.0\API.FurnitureStore.Shared.dll
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net6.0\API.FurnitureStore.Shared.pdb
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.csproj.AssemblyReference.cache
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.AssemblyInfoInputs.cache
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.AssemblyInfo.cs
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.csproj.CoreCompileInputs.cache
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.dll
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\refint\API.FurnitureStore.Shared.dll
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.pdb
+E:\Federico\Clases de C#\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\ref\API.FurnitureStore.Shared.dll
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net6.0\API.FurnitureStore.Shared.deps.json
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net6.0\API.FurnitureStore.Shared.dll
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net6.0\API.FurnitureStore.Shared.pdb
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.csproj.AssemblyReference.cache
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.AssemblyInfoInputs.cache
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.AssemblyInfo.cs
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.csproj.CoreCompileInputs.cache
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.dll
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\refint\API.FurnitureStore.Shared.dll
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\API.FurnitureStore.Shared.pdb
+E:\Curso_Udemy\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net6.0\ref\API.FurnitureStore.Shared.dll
