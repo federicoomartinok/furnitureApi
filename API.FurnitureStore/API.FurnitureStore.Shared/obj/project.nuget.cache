@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g9YPjmO8aa9p01niSPOwf8lS4hy06iXPN7tPX0FB7qrrpJnGkw4uxsybzpNfxTzT0GuRayNpVuk2CCZdlc4peQ==",
+  "dgSpecHash": "uOGgU6FnJvqABcu7/dTFYxMDWqxlGrVq5bH5kqfJxi8qfKYsSljWxsMquAPEmOtvHQh9MB1fd8uMnHq3UWZYsA==",
   "success": true,
-  "projectFilePath": "E:\\Curso_Udemy\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
+  "projectFilePath": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

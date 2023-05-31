@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bvI/GiQwFezj4InyHIE/QPy+Kw/hvdX8LI9AC/i8t2w5Cp+fuvFlgBZUtG9K1bYWl66Eee9Ai0RG3jTuGFGn9g==",
+  "dgSpecHash": "Agya2MlXnmgidqJQ+QFa+4bv5ndpsxJ6Vh1IcmRiftLAs2OBUZnHyTrzwxKw+2vv+LBJ448WTQGpXKDp7VWqFQ==",
   "success": true,
-  "projectFilePath": "E:\\Curso_Udemy\\API.FurnitureStore\\API.FurnitureStore.API\\API.FurnitureStore.API.csproj",
+  "projectFilePath": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.API\\API.FurnitureStore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Federico\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Federico\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.16\\microsoft.data.sqlite.core.6.0.16.nupkg.sha512",

@@ -1326,11 +1326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Curso_Udemy\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
+      "projectUniqueName": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
       "projectName": "API.FurnitureStore.Data",
-      "projectPath": "E:\\Curso_Udemy\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
+      "projectPath": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
       "packagesPath": "C:\\Users\\Federico\\.nuget\\packages\\",
-      "outputPath": "E:\\Curso_Udemy\\API.FurnitureStore\\API.FurnitureStore.Data\\obj\\",
+      "outputPath": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Federico\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1347,8 +1347,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Curso_Udemy\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
-              "projectPath": "E:\\Curso_Udemy\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj"
+            "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
+              "projectPath": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj"
             }
           }
         }
