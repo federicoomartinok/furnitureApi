@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj": {}
+    "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj": {}
   },
   "projects": {
-    "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj": {
+    "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
+        "projectUniqueName": "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
         "projectName": "API.FurnitureStore.Data",
-        "projectPath": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
-        "packagesPath": "C:\\Users\\Federico\\.nuget\\packages\\",
-        "outputPath": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\obj\\",
+        "projectPath": "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
+        "packagesPath": "C:\\Users\\fedmartin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Federico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fedmartin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
-                "projectPath": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj"
+              "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
+                "projectPath": "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj"
               }
             }
           }
@@ -44,6 +48,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.16, )"
@@ -71,8 +79,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,21 +88,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
+    "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
         "projectName": "API.FurnitureStore.Shared",
-        "projectPath": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
-        "packagesPath": "C:\\Users\\Federico\\.nuget\\packages\\",
-        "outputPath": "E:\\Curso_Udemy\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\obj\\",
+        "projectPath": "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
+        "packagesPath": "C:\\Users\\fedmartin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fedmartin\\Desktop\\Camino de Cordero Federico Martin\\furnitureApi\\API.FurnitureStore\\API.FurnitureStore.Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Federico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fedmartin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,8 +137,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -136,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

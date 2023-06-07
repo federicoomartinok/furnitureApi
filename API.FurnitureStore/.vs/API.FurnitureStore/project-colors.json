@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3369126-2789-431a-af0e-bb486da961d7": {
+      "ProjectGuid": "f3369126-2789-431a-af0e-bb486da961d7",
+      "DisplayName": "API.FurnitureStore.API",
+      "ColorIndex": 0
+    },
+    "6359381d-780a-4ca7-ba73-f757dea001fa": {
+      "ProjectGuid": "6359381d-780a-4ca7-ba73-f757dea001fa",
+      "DisplayName": "API.FurnitureStore.Shared",
+      "ColorIndex": 1
+    },
+    "887e3c22-b169-4088-9c78-6de19cbd9c09": {
+      "ProjectGuid": "887e3c22-b169-4088-9c78-6de19cbd9c09",
+      "DisplayName": "API.FurnitureStore.Data",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
