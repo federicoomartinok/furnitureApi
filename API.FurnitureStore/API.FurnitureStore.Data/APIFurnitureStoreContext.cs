@@ -1,10 +1,11 @@
 ﻿using API.FurnitureStore.Shared;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 
 namespace API.FurnitureStore.Data
 {
-    public class APIFurnitureStoreContext : DbContext
+    public class APIFurnitureStoreContext : IdentityDbContext
     {
         public APIFurnitureStoreContext(DbContextOptions options) : base(options) { }
         //tablas

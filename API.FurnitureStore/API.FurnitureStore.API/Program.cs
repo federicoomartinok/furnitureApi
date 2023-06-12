@@ -16,7 +16,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<APIFurnitureStoreContext>(options =>
             options.UseSqlite(builder.Configuration.GetConnectionString("APIFurnitureStoreContext")));
 
-
+// se mapeo la clase jwtconfig con la propiedad secret
+// en el contenedor de dependencias
 builder.Services.Configure<JwtConfig>(builder.Configuration.GetSection("JwtConfig"));
 
 builder.Services.AddAuthentication(options =>

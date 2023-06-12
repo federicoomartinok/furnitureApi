@@ -49,3 +49,20 @@ E:\Curso_Udemy\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug
 E:\Curso_Udemy\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.pdb
 E:\Curso_Udemy\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.genruntimeconfig.cache
 E:\Curso_Udemy\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\ref\API.FurnitureStore.Data.dll
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.deps.json
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.runtimeconfig.json
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.dll
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\ref\API.FurnitureStore.Data.dll
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.pdb
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Shared.dll
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Shared.pdb
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.AssemblyReference.cache
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.AssemblyInfoInputs.cache
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.AssemblyInfo.cs
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.CopyComplete
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.dll
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\ref\API.FurnitureStore.Data.dll
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.pdb
+C:\Users\fedmartin\Desktop\Camino de Cordero Federico Martin\furnitureApi\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.genruntimeconfig.cache
